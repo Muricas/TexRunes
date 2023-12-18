@@ -1,0 +1,10 @@
+## Interface: 11500
+## Title: Tex Runes
+## Version: 1.5.1
+## Notes: Rune Management for Season of Discovery
+## Author: Muricas
+## LoadOnDemand: 0
+## DefaultState: enabled
+## SavedVariables: TexRunesDB
+
+TexRunes.lua

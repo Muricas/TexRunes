@@ -1,0 +1,30 @@
+{
+    "Lua.diagnostics.globals": [
+        "CharacterChestSlot",
+        "CharacterLegsSlot",
+        "CharacterHandsSlot",
+        "CreateFrame",
+        "UIParent",
+        "UnitAffectingCombat",
+        "GetUnitSpeed",
+        "C_Engraving",
+        "StaticPopup1Button1",
+        "GameTooltip",
+        "CopyTable",
+        "GetSpellCooldown",
+        "GetTime",
+        "InterfaceOptions_AddCategory",
+        "SlashCmdList",
+        "TexRunesUseRuneButton4",
+        "InterfaceOptionsFrame_OpenToCategory",
+        "UnitClass",
+        "ShowUIPanel",
+        "CharacterFrame",
+        "HideUIPanel",
+        "C_Timer",
+        "UnitCastingInfo",
+        "UnitIsDeadOrGhost",
+        "GetInventoryItemID",
+        "PlaySound"
+    ]
+}
